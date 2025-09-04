@@ -106,20 +106,4 @@ Roman vs nouvelle: nouvelle -> chute
 # Met en lumiere <- fire asf
 
 ---
-# Les courant literaire
-
-**Definition**: un ensemble d'oeuvre qui contient des characterisitques commune a une epoque donner
-
-
-#### Moyen-age
-- Amour courtois 
-- Lyrisme (emotions, sentiment)
-- Troubadours
-- La chanson de roland
-
-#### Humanisme (Renaissance 1400-1600)
-- Remise a lhonneur de la culture antique
-- Invention de limprimerie (1440)
-- Voit le jour en italie (**Berceau de la renaissance: Florence**)
-- Anthropocentrisme (met l'homme au centre des ces pre-ocuppation)
-- Auteur: Rabelais (Garguantua), Montaigne
+# [[Francais (Les courant literaire)]]
