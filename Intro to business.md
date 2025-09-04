@@ -29,8 +29,13 @@
 > 3. **What is the role of an entrepreneur in society?**
 > 	`There primary purpose is to create buisnesses and develop new products or services to benefit the society`
 
+---
+
 **External business environment**: `something that a business needs to adapt to and cannot change directly`
-e
+
+**Internal**: things we can control
+**External**: things out of control that cannot be changed
+
 1. **Define the components of the internal and the external business environments.**
 	**External**: 
 	- Economic (Condition of economy where business operates), 
@@ -46,3 +51,4 @@ e
 
 3. **Why do demographic shifts and technological developments create both challenges and new opportunities for business?**
 	`Businesses must adapt to the changing needs and preference of different age groups but it also create more customers and potential income. Technology also requires adapting to new technologies but can increase productivity and reduce costs.`
+
