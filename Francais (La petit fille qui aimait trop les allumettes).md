@@ -1,3 +1,72 @@
+# 1998 au Québec
+## Courant post-moderne
+
+- **1995 : deuxième référendum** (peut faire un lien pour l'intro de la dissertation)
+
+- Grande portée métaphorique/symbolique  
+- Plus un conte qu'un roman  
+- L'intrigue commence sur la mort du père trouvé pendu  
+- La disparition pour les deux adolescents est une tragédie  
+- Deux frères sont traumatisés par leur père mort. N'avaient pas de liberté à cause du père → quand père mort ils sont libres mais ne savent pas quoi faire  
+- Les enfants sont conscients qu'ils doivent maintenant apprendre à vivre avec les autres qu'ils appellent les « semblables »  
+- Le livre dure moins de 48h depuis la mort du père  
+- Ne peut pas dater cette histoire (aucun indice)  
+- On peut déduire que ça se passe avant la Révolution tranquille  
+- Se situe dans un domaine que les enfants ne peuvent pas franchir (aka prison)  
+- Narratrice fascinée par les cloches d'église  
+
+### Narratrice
+- Âgée d'environ 16 ou 17 ans  
+- Elle a toujours vécu dans un monde d'hommes, n'ont jamais accepté sa différence  
+
+### Frère
+- Évoqué dans la narration de sa sœur  
+- Pas brillant et ne comprend pas toujours  
+- Rempli de défauts : gourmand, envieux, paresseux  
+
+### Père
+- Même si mort, il est omniprésent  
+
+### Nom de famille
+- Soissons  
+
+---
+
+## Thèmes
+
+### La recherche d'identité
+- À partir de la mort du père, la narratrice entreprend la conquête de son identité et de sa féminité  
+- Autrefois cloîtrée dans un monde d'hommes hyper puissants, elle peut se diriger vers une meilleure compréhension d'elle-même  
+
+### La féminité
+- C'est le père qui a nié la féminité de son enfant  
+- Il lui fait croire qu'elle a perdu sa dignité  
+
+### L'identité du genre
+- Le genre est un construit social  
+- Le roman nous fait poser la question à propos du genre  
+- Lorsque le genre est ignoré, comment développer sa propre identité ?  
+
+### L'intersexualité
+- La narratrice est peu instruite  
+- Mais elle a lu quelques œuvres impressionnantes, des contes de fées et même des textes sacrés  
+
+### La violence
+- La violence faite aux femmes dans notre société, voilà le lien avec ce thème  
+- L'inceste commis par le frère en est un bon exemple → symbolise le pouvoir des hommes sur le corps des femmes  
+- Le père, de plus, bat ses enfants  
+
+### La religion
+- Elle est omniprésente  
+
+### La faute, le remords et le pardon
+- Le Just Chatiment est un personnage dans le roman  
+- Ce personnage est un mystère mais intimement lié à la notion de faute  
+- Le père est coupable de faire souffrir ses enfants par vengeance  
+- Sa mort symbolise les remords qu'il ressent face à ses actions  
+
+---
+
 1998 au quebec
 Courant post-moderne
 
