@@ -22,7 +22,7 @@
 - **(!!) Auteur fetish de louis 14: *Moliaire***
 - **Autre auteur: Corneille, Recine**
 
-#### Baroque
+#### Baroque (17e siecle)
 - Exageration
 - Surcharge, exces
 - Exuberance des formes contrastes
