@@ -88,7 +88,7 @@
 ## *Quebec*
 
 #### La literature patriotique (1837)
-- Francois Xavier Garneau donne le coup d'envol au patriotisme litteraire, voulant prouver que le canadien francais s'est montre glorieux et que son destin...
+- Francois Xavier Garneau donne le coup d'envol au patriotisme litteraire, voulant prouver que le canadien francais s'est montre glorieux et que son destin est de perdurer
 
 #### Emile Nelligan et le symbolisme  (fin 19ieme siecle)
 - Il est generalement vu comme le point de depart de la poesie quebecoise moderne. Rompant avec la thematique patriotique de son epoque pour explorer plutot son espace interieur.
