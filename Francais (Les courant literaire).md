@@ -108,6 +108,9 @@
 - Bonheur d'occasion, Gabrielle Roy
 - **Zone, Marcel Dube**
 - **Tit-coq, Gratien Gelinas**
+- Décrivent les classes ouvrières défavorisées après la Deuxième Guerre mondiale. 
+- Aliénation politique, économique, sociale et culturelle.
+
 
 #### Litterature de la Revolution tranquille (annees 60)
 - Effervescence et bouillonnement culturel
