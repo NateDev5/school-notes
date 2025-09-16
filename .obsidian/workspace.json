@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e958ce976049363",
+        "id": "b723bfad0d94fd34",
         "type": "tabs",
         "children": [
           {
-            "id": "4408d790dd3b5d43",
+            "id": "459cde53580a9a5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "English"
             }
-          },
-          {
-            "id": "de9e298c05196310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francais (Analyze la petite fille pt2).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Francais (Analyze la petite fille pt2)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "93975e69d639b767",
@@ -184,15 +169,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de9e298c05196310",
+  "active": "459cde53580a9a5e",
   "lastOpenFiles": [
-    "English.md",
-    "Francais (Analyze la petite fille pt2).md",
-    "Francais (Les courant literaire).md",
-    "Francais note.canvas",
-    "Francais (La petit fille qui aimait trop les allumettes).md",
-    "Francais.md",
     "excerice.md",
+    "Untitled.md",
+    "Francais (Les courant literaire).md",
+    "Francais (La petit fille qui aimait trop les allumettes).md",
+    "Francais (Analyze la petite fille pt2).md",
+    "English.md",
+    "Francais note.canvas",
+    "Francais.md",
     "2025-09-09.md",
     "Untitled.base",
     "Networking.md",

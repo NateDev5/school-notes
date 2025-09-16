@@ -6,3 +6,25 @@
 **Jazz literature**: Jazz like rhythm, feel of improvisation, repetition, idea of a "solo", breaking/playing with tradition. Culturally specific diction/syntax
 
 **The blues**: music that originate in the deep south of th US. call and response pattern.
+
+
+## Themes
+- ~~Violence~~
+- Identity
+- Memory
+- Childhood
+- Trap/escape
+- Trauma
+- Music
+- ~~Liminality~~
+- Making it
+- Addiction
+- Interior vs Exterior
+- Relationships
+- Family
+- Gender
+- Racism
+- Listening
+- Growth/change
+- Improvisation
+- "Break" - tradition + otherwise
