@@ -57,3 +57,5 @@ FX = Fiber optic
 **Connector types**:
 - LC (fiber optic with two channels) = SMF
 - SC (fiber optic with one channel) = MMF
+
+  **CSMA/CD**: the milliseconds to wait are random
